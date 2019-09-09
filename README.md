@@ -15,10 +15,3 @@
 <li>Sqlite3</li>
 <li>Jupyter Notebook</li>
 </ul>
-<p><strong>Key Findings</strong></p>
-<ul>
-<li>None of the variables have significant p-values.</li>
-<li>We will fail to reject the null.</li>
-<li>Not enough evidence to claim interaction between country and page received that on the basis of country there are more conversions.</li>
-<li>Everything appears to be working just fine, don&rsquo;t fix what is not broken.</li>
-</ul>
